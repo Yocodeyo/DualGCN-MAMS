@@ -1,5 +1,5 @@
 # DualGCN-MAMS
-
+The repository consists of implementation of DualGCN-ABSA (https://github.com/CCChenhao997/DualGCN-ABSA) on MAMS dataset which is not explored in the original paper.
 ## Preparation
 1. Download and unzip GloVe vectors(glove.840B.300d.zip) from https://nlp.stanford.edu/projects/glove/ and put it into DualGCN/glove directory.
 
