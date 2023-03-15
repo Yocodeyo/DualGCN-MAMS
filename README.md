@@ -4,11 +4,6 @@
 1. Download and unzip GloVe vectors(glove.840B.300d.zip) from https://nlp.stanford.edu/projects/glove/ and put it into DualGCN/glove directory.
 
 2. Download the best model best_parser.pt of LAL-Parser and put it into LAL-Parser/best_model directory.
-Prepare vocabulary with:
-
-sh DualGCN/build_vocab.sh
-
-Download the best model best_parser.pt of LAL-Parser.
 
 
 
