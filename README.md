@@ -10,6 +10,6 @@ The repository consists of implementation of DualGCN-ABSA (https://github.com/CC
 ## Execution
 1. Prepare vocabulary: ```sh DualGCN/build_vocab.sh```
 
-2. Prepare features from MAMS dataset: Run Parser.ipynb
+2. Prepare features from MAMS dataset: Run Prepare_Features.ipynb
 
 3. Train and Evaluate: ```CUDA_VISIBLE_DEVICES=0 python3 ./DualGCN/train.py```
